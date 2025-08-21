@@ -102,7 +102,7 @@ nav a:hover {
 }
 
 .hero {
-    background: linear-gradient(rgba(26, 79, 139, 0.8), rgba(26, 79, 139, 0.8)), url('placeholder-hero.jpg');
+    background: url('../images/pic-1.jpg');
     background-size: cover;
     background-position: center;
     color: white;
@@ -133,6 +133,7 @@ nav a:hover {
     font-weight: bold;
     text-decoration: none;
     transition: all 0.3s;
+    display: inline-block;
 }
 
 .btn-primary {
@@ -230,8 +231,9 @@ nav a:hover {
     border-radius: 8px;
     overflow: hidden;
     height: 400px;
-    background-color: #ddd;
-}
+    background: url('../images/pic-6.jpg');
+    background-size: cover;
+    background-position: center;}
 
 .testimonials {
     background-color: white;
@@ -398,3 +400,20 @@ footer {
         font-size: 2rem;
     }
 }
+
+.service-img.after-school-care {
+    background-image: url('../images/pic-2.jpg');
+}
+
+.service-img.interest-improvement-classes {
+    background-image: url('../images/pic-3.jpg');
+}
+
+.service-img.exam-prep-class {
+    background-image: url('../images/pic-4.jpg');
+}
+
+.service-img.further-studies-plan {
+    background-image: url('../images/pic-5.jpg');
+}
+
