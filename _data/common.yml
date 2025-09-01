@@ -1,0 +1,82 @@
+banner_title: "High-quality after-school education services help children develop comprehensively"
+banner_subtitle: "At UpEdu, we provide professional after-school care, interest development, test preparation, and college entrance planning services, offering comprehensive educational support to families in the San Francisco Bay Area."
+banner_register_button: "Register Now"
+banner_learn_more_button: "Learn More"
+
+programs_title: Our Courses and Services
+programs_subtitle: Comprehensive education solutions to meet the learning needs of students of different ages
+
+programs_1_title: After-school Care
+programs_1_description: Professional after-school care and homework tutoring solve the worries of dual-income families.
+programs_1_grade: <strong>Suitable for grades:</strong> 1-12
+programs_1_time: <strong>Time:</strong> Monday to Friday after school - 18:30
+
+programs_2_title: Interest and improvement classes
+programs_2_description: Cultivate multi-disciplinary interests such as writing, reading, mathematics, science, and programming.
+programs_2_grade: <strong>Suitable for grades:</strong> 1-12
+programs_2_time: <strong>Time:</strong> Weekend mornings
+
+programs_3_title: Exam Preparation Class
+programs_3_description: Professional tutoring for SAT, SSAT, AP and other exams to improve test scores.
+programs_3_grade: <strong>Suitable for grades:</strong> 8-12
+programs_3_time: <strong>Time:</strong> Flexible
+
+programs_4_title: Further studies planning
+programs_4_description: School application, document guidance, interview preparation, one-stop admission service.
+programs_4_grade: <strong>Suitable for grades:</strong> 9-12
+programs_4_time: <strong>Time:</strong> Appointment on demand
+
+about_title: About UpEdu
+about_description_1: Founded in 2015, UpEdu Education Center is dedicated to providing high-quality after-school education services to families in the San Francisco Bay Area. Our educational philosophy is "holistic development and personalized training."
+about_description_2: We have an experienced team of teachers. All teachers have relevant subject backgrounds and teaching qualifications, and their average teaching experience is over 8 years.
+about_description_3: Our classrooms are safe and comfortable, equipped with advanced teaching equipment and rich learning resources to create the best learning experience for students.
+about_appointment_button: Make an appointment to visit
+
+testimonials_title: Testimonials
+testimonials_subtitle: Listen to what parents say about us
+testimonials_1_text: UpEdu's after-school care service solved a major problem for us. Not only is my child safe and supervised, but he also receives professional help with his homework, and his academic performance has improved significantly.
+testimonials_1_author: Li Ming, parent of a third grader
+testimonials_2_text: The SAT prep teachers were very professional. My daughter's score improved by over 300 points, and she was eventually accepted into her dream university! I'm very grateful to the teachers at UpEdu.
+testimonials_2_author: Zhang Hua, parent of a 12th grade student  
+testimonials_3_text: The programming teacher is very patient. My son has made great progress, going from knowing nothing about programming to being able to make his own games. I think UpEdu was the right choice for my interest class!
+testimonials_3_author: Wang Fang, parent of a fifth-grade student
+
+contactus_title: Contact Us
+contactus_subtitle: We are here to help you with any questions or needs you may have.
+contactus_contact: Contact
+contactus_address: <strong>Address:</strong>&nbsp;4657 Mission St, San Francisco, CA 94112
+contactus_phone: <strong>Telephone:</strong>&nbsp;(415) 717-2089
+contactus_email: <strong>Email:</strong>&nbsp;upedu.learning@gmail.com
+contactus_hours: "<strong>Opening hours:&nbsp;</strong><br>Monday to Friday: 2:30 PM - 7:00 PM <br>Saturday: 9:00 AM - 6:00 PM <br>Sunday: 9:00 AM - 6:00 PM <br>"
+contactus_inquiry_title: Send Inquiry
+contactus_inquiry_name: Your Name
+contactus_inquiry_email: Your Email
+contactus_inquiry_phone: Your Phone
+contactus_inquiry_type_1: Select Service Type
+contactus_inquiry_type_2: After-school care
+contactus_inquiry_type_3: Interest improvement class
+contactus_inquiry_type_4: Exam Preparation Class
+contactus_inquiry_type_5: Further studies planning
+contactus_inquiry_type_6: Other inquiries
+contactus_inquiry_message: Your Message
+contactus_inquiry_send_button: Send Message
+
+footer_upedu_title: UpEdu
+footer_upedu_subtitle: Grow Up, Edu Leads
+footer_upedu_text: Provide high-quality after-school education services to students in the San Francisco Bay Area.
+footer_quick_links: Quick Links
+footer_quick_about: About Us
+footer_quick_programs: Programs
+footer_quick_testimonials: Testimonials
+footer_quick_tuition: Pricing
+footer_programs_title: Course Services
+footer_programs_1: After-school Care
+footer_programs_2: Interest Improvement Classes
+footer_programs_3: Exam Preparation Classes
+footer_programs_4: Further Studies Planning
+footer_contactus: Contact Us
+footer_address_1: 4657 Mission Street
+footer_address_2: San Francisco, CA 94112
+footer_phone: (415) 717-2089
+footer_email: upedu.learning@gmail.com
+footer_resvered: UpEdu Education Center. All rights reserved.

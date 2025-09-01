@@ -5,11 +5,11 @@ layout: default
 <!-- 英雄区域 -->
 <section class="hero" id="home">
     <div class="container">
-        <h1>High-quality after-school education services help children develop comprehensively</h1>
-        <p>At UpEdu, we provide professional after-school care, interest development, test preparation, and college entrance planning services, offering comprehensive educational support to families in the San Francisco Bay Area.</p>
+        <h1>{{ site.data.common.banner_title }}</h1>
+        <p>{{ site.data.common.banner_subtitle }}</p>
         <div class="cta-buttons">
-            <a href="#contact" class="btn btn-primary">Register Now</a>
-            <a href="#programs" class="btn btn-secondary">Learn More</a>
+            <a href="#contact" class="btn btn-primary">{{ site.data.common.banner_register_button }}</a>
+            <a href="#programs" class="btn btn-secondary">{{ site.data.common.banner_learn_more_button }}</a>
         </div>
     </div>
 </section>
@@ -18,48 +18,48 @@ layout: default
 <section class="section" id="programs">
     <div class="container">
         <div class="section-title">
-            <h2>Our Courses and Services</h2>
-            <p>Comprehensive education solutions to meet the learning needs of students of different ages</p>
+            <h2>{{ site.data.common.programs_title }}</h2>
+            <p>{{ site.data.common.programs_subtitle }}</p>
         </div>
         
         <div class="services-grid">
             <div class="service-card">
                 <div class="service-img after-school-care"></div>
                 <div class="service-content">
-                    <h3>After-school care</h3>
-                    <p>Professional after-school care and homework tutoring solve the worries of dual-income families.</p>
-                    <p><strong>Suitable for grades:</strong> 1-12</p>
-                    <p><strong>Time:</strong> Monday to Friday after school - 18:30</p>
+                    <h3>{{ site.data.common.programs_1_title }}</h3>
+                    <p>{{ site.data.common.programs_1_description }}</p>
+                    <p>{{ site.data.common.programs_1_grade }}</p>
+                    <p>{{ site.data.common.programs_1_time }}</p>
                 </div>
             </div>
             
             <div class="service-card">
                 <div class="service-img interest-improvement-classes"></div>
                 <div class="service-content">
-                    <h3>Interest and improvement classes</h3>
-                    <p>Cultivate multi-disciplinary interests such as writing, reading, mathematics, science, and programming.</p>
-                    <p><strong>Suitable for grades:</strong> 1-12</p>
-                    <p><strong>Time:</strong> Weekend mornings</p>
+                    <h3>{{ site.data.common.programs_2_title }}</h3>
+                    <p>{{ site.data.common.programs_2_description }}</p>
+                    <p>{{ site.data.common.programs_2_grade }}</p>
+                    <p>{{ site.data.common.programs_2_time }}</p>
                 </div>
             </div>
             
             <div class="service-card">
                 <div class="service-img exam-prep-class"></div>
                 <div class="service-content">
-                    <h3>Exam Preparation Class</h3>
-                    <p>Professional tutoring for SAT, SSAT, AP and other exams to improve test scores.</p>
-                    <p><strong>Suitable for grades:</strong> 8-12</p>
-                    <p><strong>Time:</strong> Flexible</p>
+                    <h3>{{ site.data.common.programs_3_title }}</h3>
+                    <p>{{ site.data.common.programs_3_description }}</p>
+                    <p>{{ site.data.common.programs_3_grade }}</p>
+                    <p>{{ site.data.common.programs_3_time }}</p>
                 </div>
             </div>
             
             <div class="service-card">
                 <div class="service-img further-studies-plan"></div>
                 <div class="service-content">
-                    <h3>Further studies planning</h3>
-                    <p>School application, document guidance, interview preparation, one-stop admission service.</p>
-                    <p><strong>Suitable for grades:</strong> 9-12</p>
-                    <p><strong>Time:</strong> Appointment on demand</p>
+                    <h3>{{ site.data.common.programs_4_title }}</h3>
+                    <p>{{ site.data.common.programs_4_description }}</p>
+                    <p>{{ site.data.common.programs_4_grade }}</p>
+                    <p>{{ site.data.common.programs_4_time }}</p>
                 </div>
             </div>
         </div>
@@ -71,11 +71,11 @@ layout: default
     <div class="container">
         <div class="about-content">
             <div class="about-text">
-                <h2>About UpEdu</h2>
-                <p>Founded in 2015, UpEdu Education Center is dedicated to providing high-quality after-school education services to families in the San Francisco Bay Area. Our educational philosophy is "holistic development and personalized training."</p>
-                <p>We have an experienced team of teachers. All teachers have relevant subject backgrounds and teaching qualifications, and their average teaching experience is over 8 years.</p>
-                <p>Our classrooms are safe and comfortable, equipped with advanced teaching equipment and rich learning resources to create the best learning experience for students.</p>
-                <a href="#contact" class="btn btn-primary">Make an appointment to visit</a>
+                <h2>{{ site.data.common.about_title }}</h2>
+                <p>{{ site.data.common.about_description_1 }}</p>
+                <p>{{ site.data.common.about_description_2 }}</p>
+                <p>{{ site.data.common.about_description_3 }}</p>
+                <a href="#contact" class="btn btn-primary">{{ site.data.common.about_appointment_button }}</a>
             </div>
             <div class="about-image"></div>
         </div>
@@ -86,30 +86,30 @@ layout: default
 <section class="section testimonials" id="testimonials">
     <div class="container">
         <div class="section-title">
-            <h2>Testimonials</h2>
-            <p>Listen to what parents say about us</p>
+            <h2>{{ site.data.common.testimonials_title }}</h2>
+            <p>{{ site.data.common.testimonials_subtitle }}</p>
         </div>
         
         <div class="testimonial-grid">
             <div class="testimonial-card">
                 <div class="testimonial-text">
-                    "UpEdu's after-school care service solved a major problem for us. Not only is my child safe and supervised, but he also receives professional help with his homework, and his academic performance has improved significantly."
+                    <quote>{{ site.data.common.testimonials_1_text }}</quote>
                 </div>
-                <div class="testimonial-author">- Li Ming, parent of a third grader</div>
+                <div class="testimonial-author">{{ site.data.common.testimonials_1_author }}</div>
             </div>
             
             <div class="testimonial-card">
                 <div class="testimonial-text">
-                    "The SAT prep teachers were very professional. My daughter's score improved by over 300 points, and she was eventually accepted into her dream university! I'm very grateful to the teachers at UpEdu."
+                    <quote>{{ site.data.common.testimonials_2_text }}</quote>
                 </div>
-                <div class="testimonial-author">- Zhang Hua, parent of a 12th grade student</div>
+                <div class="testimonial-author">{{ site.data.common.testimonials_2_author }}</div>
             </div>
             
             <div class="testimonial-card">
                 <div class="testimonial-text">
-                    "The programming teacher is very patient. My son has made great progress, going from knowing nothing about programming to being able to make his own games. I think UpEdu was the right choice for my interest class!"
+                    <quote>{{ site.data.common.testimonials_3_text }}</quote>
                 </div>
-                <div class="testimonial-author">- Wang Fang, parent of a fifth-grade student</div>
+                <div class="testimonial-author">{{ site.data.common.testimonials_3_author }}</div>
             </div>
         </div>
     </div>
@@ -119,23 +119,18 @@ layout: default
 <section class="section contact-section" id="contact">
     <div class="container">
         <div class="section-title">
-            <h2>Contact Us</h2>
-            <p>We are happy to answer any questions you may have</p>
+            <h2>{{ site.data.common.contactus_title }}</h2>
+            <p>{{ site.data.common.contactus_subtitle }}</p>
         </div>
         
         <div class="contact-container">
             <div class="contact-info">
-                <h3>Contact</h3>
+                <h3>{{ site.data.common.contactus_contact }}</h3>
                 <div class="contact-details">
-                    <p><strong>Address:</strong>&nbsp;4657 Mission St, San Francisco, CA 94112</p>
-                    <p><strong>Telephone:</strong>&nbsp;(415) 717-2089</p>
-                    <p><strong>Email:</strong>&nbsp;upedu.learning@gmail.com</p>
-                    <p><strong>Opening hours:&nbsp;</strong><br>
-                        Monday to Friday: 2:30 PM - 7:00 PM <br>
-                        Saturday: 9:00 AM - 6:00 PM <br>
-                        Sunday: 9:00 AM - 6:00 PM <br>
-                        
-                    </p>
+                    <p>{{ site.data.common.contactus_address }}</p>
+                    <p>{{ site.data.common.contactus_phone }}</p>
+                    <p>{{ site.data.common.contactus_email }}</p>
+                    <p>{{ site.data.common.contactus_hours }}</p>
                 </div>
                 
                 <div class="map">
@@ -145,21 +140,21 @@ layout: default
             </div>
             
             <div class="contact-form">
-                <h3>Send Inquiry</h3>
+                <h3>{{ site.data.common.contactus_inquiry_title}}</h3>
                 <form action="https://docs.google.com/forms/d/1nqByChVTBFe0bDndyAuya6eU-e86GRQ2EsOia1lKpjE/formResponse" method="POST" id="contact-us-form">
-                    <input type="text" placeholder="Your name" required name="entry.1755666874">
-                    <input type="email" placeholder="Your email" required name="entry.1339616248">
-                    <input type="tel" placeholder="Your phone" required name="entry.1482073087">
+                    <input type="text" placeholder="{{ site.data.common.contactus_inquiry_name }}" required name="entry.1755666874">
+                    <input type="email" placeholder="{{ site.data.common.contactus_inquiry_name }}" required name="entry.1339616248">
+                    <input type="tel" placeholder="{{ site.data.common.contactus_inquiry_email }}" required name="entry.1482073087">
                     <select name="entry.977173322" required>
-                        <option>Select Service Type</option>
-                        <option>After-school care</option>
-                        <option>Interest improvement class</option>
-                        <option>Exam Preparation Class</option>
-                        <option>Further studies planning</option>
-                        <option>Other inquiries</option>
+                        <option>{{ site.data.common.contactus_inquiry_type_1 }}</option>
+                        <option>{{ site.data.common.contactus_inquiry_type_2 }}</option>
+                        <option>{{ site.data.common.contactus_inquiry_type_3 }}</option>
+                        <option>{{ site.data.common.contactus_inquiry_type_4 }}</option>
+                        <option>{{ site.data.common.contactus_inquiry_type_5 }}</option>
+                        <option>{{ site.data.common.contactus_inquiry_type_6 }}</option>
                     </select>
-                    <textarea placeholder="Your message" required name="entry.200142900"></textarea>
-                    <button type="submit">Send a message</button>
+                    <textarea placeholder="{{ site.data.common.contactus_inquiry_message }}" required name="entry.200142900"></textarea>
+                    <button type="submit">{{ site.data.common.contactus_inquiry_send_button }}</button>
                 </form>
             </div>
         </div>
