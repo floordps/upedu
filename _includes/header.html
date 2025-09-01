@@ -17,11 +17,30 @@
                 <li><a href="#our-teachers">Meet Our Teachers</a></li>
                 <li><a href="#testimonials">Testimonials</a></li>
                 <li><a href="#contact">Contact Us</a></li>
-                <!-- <li><select class="language-switcher">
-                    <option value="en">English</option>
+                <li><select class="language-switcher">
+                    <option value="en" selected>English</option>
                     <option value="zh">Chinese</option>
-                </select></li> -->
+                </select></li>
             </ul>
         </nav>
     </div>
+    <script>
+
+        $(function() {
+            $('.mobile-menu-btn').on('click', function() {
+                $('#menu').toggleClass('show');
+            });
+            $('.language-switcher').on('change', function() {
+                var defaultHostName = window.location.hostname;
+                if (defaultHostName.startsWith('cn.')) {
+                    defaultHostName = defaultHostName.replace('cn.', '');
+                }
+                if ($(this).val() === 'zh') {
+                    window.location.href = 'https://cn.' + defaultHostName;
+                } else {
+                    window.location.href = 'https://' + defaultHostName;
+                }
+            });
+        });
+    </script>
 </header>
