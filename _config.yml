@@ -18,16 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: UpEdu Learning
+title: UpEdu教育中心 - 旧金山课后辅导与托管
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  we provide professional after-school care, interest development, test preparation, and college entrance planning services, offering comprehensive educational support to families in the San Francisco Bay Area
+  UpEdu教育中心 - 旧金山课后辅导与托管服务，提供课后托管、兴趣提高班、备考班和升学规划服务
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-lang: en
-lang_file: common_en
+lang: zh-CN
 
 # Build settings
 theme: minima

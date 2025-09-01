@@ -1,0 +1,94 @@
+banner_title: 优质的课后教育服务，助力孩子全面发展
+banner_subtitle: 在UpEdu，我们提供专业的课后托管、兴趣培养、考试备考和升学规划服务，为旧金山湾区家庭提供全方位的教育支持。
+banner_register_button: 立即报名
+banner_learn_more_button: 了解更多
+
+programs_title: 我们的课程与服务
+programs_subtitle: 全方位教育解决方案，满足不同年龄段学生的学习需求
+
+programs_1_title: 课后托管
+programs_1_description: 专业的课后看护与作业辅导，解决双职工家庭的后顾之忧。
+programs_1_grade: <strong>适合年级::</strong> 1-12年级
+programs_1_time: <strong>时间:</strong> 周一至周五 放学后 - 18:30
+
+programs_2_title: 兴趣与提高班
+programs_2_description: 写作、阅读、数学、科学、编程等多学科兴趣培养。
+programs_2_grade: <strong>适合年级:</strong> 1-12年级
+programs_2_time: <strong>时间:</strong> 周末早晨
+
+programs_3_title: 备考班
+programs_3_description: SAT、SSAT、AP等考试专业辅导, 提升考试成绩。
+programs_3_grade: <strong>适合年级:</strong> 8-12年级
+programs_3_time: <strong>Time:</strong> 灵活安排
+
+programs_4_title: 升学规划
+programs_4_description: 学校申请、文书辅导、面试准备，一站式升学服务。
+programs_4_grade: <strong>适合年级:</strong> 9-12年级
+programs_4_time: <strong>时间:</strong>  按需预约
+
+about_title: 关于 UpEdu
+about_description_1: UpEdu教育中心成立于2015年, 致力于为旧金山湾区家庭提供优质课后教育服务。我们的教育理念是"全面发展，个性化培养"。
+about_description_2: 我们拥有经验丰富的教师团队, 所有教师均具备相关学科背景和教学资质, 平均教龄超过8年。
+about_description_3: 我们的教室环境安全舒适，配备先进的教学设备和丰富的学习资源，为学生创造最佳的学习体验。
+about_appointment_button: 预约参观
+
+teacher_zhang: 张老师
+teacher_zhang_profile: 毕业于南京师范大学文学院、南京中医药大学, 并进修学前教育、心理学及对外汉语研究生课程。拥有近25年中文教学经验, 学生年龄从学龄前到成人。曾任教于中国知名高校海外学院，所带学生多次在全国性比赛中获奖。现任旧金山一所公立及一所私立学校中文教师，教学方式生动，深受学生与家长好评。
+
+teacher_li: 李老师
+teacher_li_profile: 毕业于加州大学数学系, 获旧金山大学数学教育硕士学位。在旧金山任教5年, 拥有丰富的补习与考试备考经验，并多次带领学生参加学术交流活动。善于激发学生学习积极性，帮助他们转变对数学的兴趣，深受学生喜爱。
+
+teacher_lin: 林老师
+teacher_lin_profile: 毕业于师范学院，本科扎实，后获旧金山艺术大学室内设计硕士学位。兼具专业功底与创意实践经验，擅长激发学生的艺术潜能，深受学生喜爱。
+
+teacher_zhao: 赵老师
+teacher_zhao_profile: 毕业于云南大学，获理学硕士学位，并于西安交通大学取得工学硕士。曾为加州理工交流学者，具备深厚的学术背景与培训经验。擅长与学生互动，耐心细致，教学效果显著。
+
+testimonials_title: 家长评价
+testimonials_subtitle: 听听家长们对我们的评价
+testimonials_1_text: UpEdu的课后托管服务解决了我们的大问题。孩子不仅安全有人看管, 作业也得到专业辅导，学习成绩明显提高。
+testimonials_1_author: 李明，小学三年级家长
+testimonials_2_text: SAT备考班的老师非常专业, 女儿的成绩提高了300多分, 最终被她梦想的大学录取了! 非常感谢UpEdu的老师们。
+testimonials_2_author: 张华, 12年级学生家长
+testimonials_3_text: "编程课老师很有耐心, 我的儿子从对编程一无所知到现在能自己制作小游戏, 进步非常大。兴趣班选UpEdu没错!"
+testimonials_3_author: 王芳，五年级学生家长
+
+contactus_title: 联系我们
+contactus_subtitle: 我们很乐意回答您的任何问题
+contactus_contact: 联系方式
+contactus_address: <strong>地址:</strong>&nbsp;4657 Mission St, San Francisco, CA 94112
+contactus_phone: <strong>电话:</strong>&nbsp;(415) 717-2089
+contactus_email: <strong>邮箱:</strong>&nbsp;upedu.learning@gmail.com
+contactus_hours: "<strong>营业时间:&nbsp;</strong><br>周一至周五: 2:30 PM - 7:00 PM <br>周六: 9:00 AM - 6:00 PM <br>周日: 9:00 AM - 6:00 PM <br>"
+contactus_inquiry_title: 发送询问
+contactus_inquiry_name: 您的姓名
+contactus_inquiry_email: 您的邮箱
+contactus_inquiry_phone: 您的电话
+contactus_inquiry_type_1: 选择服务类型
+contactus_inquiry_type_2: 课后托管
+contactus_inquiry_type_3: 兴趣提高班
+contactus_inquiry_type_4: 备考班
+contactus_inquiry_type_5: 升学规划
+contactus_inquiry_type_6: 其他咨询
+contactus_inquiry_message: 您的留言
+contactus_inquiry_send_button: 发送消息
+
+footer_upedu_title: UpEdu
+footer_upedu_subtitle: Grow Up, Edu Leads
+footer_upedu_text: 为旧金山湾区学生提供优质课后教育服务。
+footer_quick_links: 快速链接
+footer_quick_about: 关于我们
+footer_quick_programs: 课程服务
+footer_quick_testimonials: 家长评价
+footer_quick_tuition: 价格报名
+footer_programs_title: 课程服务
+footer_programs_1: 课后托管
+footer_programs_2: 兴趣提高班
+footer_programs_3: 备考班
+footer_programs_4: 升学规划
+footer_contactus: 联系我们
+footer_address_1: 4657 Mission Street
+footer_address_2: San Francisco, CA 94112
+footer_phone: (415) 717-2089
+footer_email: upedu.learning@gmail.com
+footer_resvered: UpEdu教育中心. 版权所有.
